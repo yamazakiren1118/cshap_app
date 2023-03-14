@@ -1,0 +1,17 @@
+D:\C#\multMemoTest2.6\multMemoTest2.6\bin\Debug\netcoreapp3.1\multMemoTest2.6.exe
+D:\C#\multMemoTest2.6\multMemoTest2.6\bin\Debug\netcoreapp3.1\multMemoTest2.6.deps.json
+D:\C#\multMemoTest2.6\multMemoTest2.6\bin\Debug\netcoreapp3.1\multMemoTest2.6.runtimeconfig.json
+D:\C#\multMemoTest2.6\multMemoTest2.6\bin\Debug\netcoreapp3.1\multMemoTest2.6.runtimeconfig.dev.json
+D:\C#\multMemoTest2.6\multMemoTest2.6\bin\Debug\netcoreapp3.1\multMemoTest2.6.dll
+D:\C#\multMemoTest2.6\multMemoTest2.6\bin\Debug\netcoreapp3.1\multMemoTest2.6.pdb
+D:\C#\multMemoTest2.6\multMemoTest2.6\obj\Debug\netcoreapp3.1\multMemoTest2.6.csproj.AssemblyReference.cache
+D:\C#\multMemoTest2.6\multMemoTest2.6\obj\Debug\netcoreapp3.1\multMemoTest2._6.Form1.resources
+D:\C#\multMemoTest2.6\multMemoTest2.6\obj\Debug\netcoreapp3.1\multMemoTest2._6.RenTextBox.resources
+D:\C#\multMemoTest2.6\multMemoTest2.6\obj\Debug\netcoreapp3.1\multMemoTest2.6.csproj.GenerateResource.cache
+D:\C#\multMemoTest2.6\multMemoTest2.6\obj\Debug\netcoreapp3.1\multMemoTest2.6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\multMemoTest2.6\multMemoTest2.6\obj\Debug\netcoreapp3.1\multMemoTest2.6.AssemblyInfoInputs.cache
+D:\C#\multMemoTest2.6\multMemoTest2.6\obj\Debug\netcoreapp3.1\multMemoTest2.6.AssemblyInfo.cs
+D:\C#\multMemoTest2.6\multMemoTest2.6\obj\Debug\netcoreapp3.1\multMemoTest2.6.csproj.CoreCompileInputs.cache
+D:\C#\multMemoTest2.6\multMemoTest2.6\obj\Debug\netcoreapp3.1\multMemoTest2.6.dll
+D:\C#\multMemoTest2.6\multMemoTest2.6\obj\Debug\netcoreapp3.1\multMemoTest2.6.pdb
+D:\C#\multMemoTest2.6\multMemoTest2.6\obj\Debug\netcoreapp3.1\multMemoTest2.6.genruntimeconfig.cache
